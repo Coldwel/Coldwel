@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Coldwel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Nick
+- 👀 I’m interested in software development mostly in Python, but Java also.
+- 🌱 I’m currently learning Algorithms, software architecture and everything I can on software engineering.
+- 💞️ I’m looking to collaborate on any and all projects.
+- 📫 How to reach me: 
+    - email: nicolaus.bunch@gmail.com
+    - linkedin: https://www.linkedin.com/in/nicolaus-bunch-1583651a2/
 
-<!---
-Coldwel/Coldwel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
