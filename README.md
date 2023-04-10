@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick
-- 👀 I’m interested in everything software engineering and data, main focus is in Python.
-- 🌱 I’m currently learning Algorithms, software architecture and everything I can on software engineering.
+- 👀 I’m interested in everything software engineering, main focus is in web development.
+- 🌱 I’m currently learning web development libraries in Javascript and Python.
 - 💞️ I’m looking to collaborate on any and all projects.
 - 📫 How to reach me: 
     - email: n.bunch@protonmail.com
